@@ -1,0 +1,14 @@
+node_modules
+dist
+.env
+*.log
+.DS_Store
+coverage
+*.db
+*.sqlite
+*.sqlite3
+.git
+.gitignore
+README.md
+*.md
+
